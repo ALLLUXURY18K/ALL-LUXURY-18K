@@ -1,0 +1,43 @@
+*{
+    box-sizing: border-box;
+    margin: 0;}
+    /* html{
+        background-image: url(Images/fonfo\ bien.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+        padding-top: 120px;
+    } */
+    header{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        background-color: rgba(255, 255, 177, 0.8);
+        position: fixed;
+        top: 0;
+        z-index: 1;
+        width: 100%;}
+
+        .logo{
+            padding: 15px;
+        }
+        .logo img{
+            width: 5rem;
+            border-radius: 50%;
+        }
+
+        .instagram{
+            padding: 15px;
+        }
+        .instagram img{
+            width: 5rem;
+            border-radius: 90%;
+        }
+
+        .facebook{
+            padding: 15px;
+        }
+        .facebook img{
+            width: 5rem;
+            border-radius: 50%;
+        }
