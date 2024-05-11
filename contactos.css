@@ -1,13 +1,13 @@
 *{
     box-sizing: border-box;
     margin: 0;}
-    /* html{
+    html{
         background-image: url(Images/fonfo\ bien.jpg);
         background-repeat: no-repeat;
         background-size: cover;
         background-attachment: fixed;
         padding-top: 120px;
-    } */
+    } 
     header{
         display: flex;
         justify-content: space-around;
