@@ -24,7 +24,7 @@ footer{
         align-items: center;
         flex-wrap: wrap;
         padding: 20px;
-        background-color: #f0f0f0;
+        background-color: rgba(255, 255, 177, 0.8);
         position: fixed;
         bottom: 0;
         width: 100%;
